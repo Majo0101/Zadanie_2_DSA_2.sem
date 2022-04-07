@@ -49,7 +49,7 @@ int main() {
             case 'c' :
                 cout << endl << "Enter your string..." << endl;          File << endl << "Enter your string..." << endl;
                 getline (cin, input);
-                getline (cin, input);                              File << endl << input << endl;
+                getline (cin, input);                                    File << endl << input << endl;
                 print = mag.data(input);
                 cout << endl << print << endl;                           File << endl << print << endl;
                 print.clear();
