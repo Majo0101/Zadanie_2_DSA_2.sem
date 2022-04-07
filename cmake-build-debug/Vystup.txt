@@ -1,0 +1,93 @@
+
+Enter your choice
+a - Create stack
+b - Wipe stack
+c - Enter your string
+d - Show the first stack
+e - Show the second stack
+f - Palindrome test
+x - Exit
+
+b
+
+You must create stack first
+
+Enter your choice
+a - Create stack
+b - Wipe stack
+c - Enter your string
+d - Show the first stack
+e - Show the second stack
+f - Palindrome test
+x - Exit
+
+a
+
+Stack was cretaed
+
+Enter your choice
+a - Create stack
+b - Wipe stack
+c - Enter your string
+d - Show the first stack
+e - Show the second stack
+f - Palindrome test
+x - Exit
+
+c
+
+Enter your string...
+
+levellevel.
+
+-> push ->
+
+Enter your choice
+a - Create stack
+b - Wipe stack
+c - Enter your string
+d - Show the first stack
+e - Show the second stack
+f - Palindrome test
+x - Exit
+
+d
+
+levellevel.
+
+Enter your choice
+a - Create stack
+b - Wipe stack
+c - Enter your string
+d - Show the first stack
+e - Show the second stack
+f - Palindrome test
+x - Exit
+
+e
+
+.levellevel
+
+Enter your choice
+a - Create stack
+b - Wipe stack
+c - Enter your string
+d - Show the first stack
+e - Show the second stack
+f - Palindrome test
+x - Exit
+
+f
+
+Palindrome
+
+Enter your choice
+a - Create stack
+b - Wipe stack
+c - Enter your string
+d - Show the first stack
+e - Show the second stack
+f - Palindrome test
+x - Exit
+
+x
